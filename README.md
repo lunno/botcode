@@ -1,5 +1,6 @@
 # botcode
-My bot - Nordestinia
+
+Nordestinia 1.5 - Created by LunnoKING
 
 Visual Studio Code - 
 
