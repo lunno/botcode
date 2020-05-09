@@ -1,5 +1,5 @@
 
-Nordestinia - Created by LunnoKING
+Created by LunnoKING
 
 Visual Studio Code - 
 
